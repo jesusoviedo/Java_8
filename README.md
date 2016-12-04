@@ -5,4 +5,5 @@
 <li>Sintaxis Lamdba</li>
 <li>Ambitos Lamdba</li>
 <li>Metodos default en Interfaces</li>
+<li>Interfaces Funcionales</li>
 </ol>
