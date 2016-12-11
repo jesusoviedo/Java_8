@@ -7,4 +7,5 @@
 <li>Metodos default en Interfaces</li>
 <li>Interfaces Funcionales</li>
 <li>Referencia de Metodos</li>
+<li>Uso de Colecciones</li>
 </ol>
