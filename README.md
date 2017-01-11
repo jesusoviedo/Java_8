@@ -10,4 +10,5 @@
 <li>Uso de Colecciones</li>
 <li>Stream</li>
 <li>Optional</li>
+<li>Stream Paralelo</li>
 </ol>
